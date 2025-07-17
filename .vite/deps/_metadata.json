@@ -1,0 +1,23 @@
+{
+  "hash": "19af9f1a",
+  "browserHash": "33afbe8f",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "deeca7af",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3ffe2a22",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-GIQZIPNC": {
+      "file": "chunk-GIQZIPNC.js"
+    }
+  }
+}
